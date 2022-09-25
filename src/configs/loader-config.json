@@ -1,0 +1,20 @@
+{
+    "preloaderResources": [
+        {
+            "name": "preloaderResources",
+            "data": {
+                "name": "preloadResources",
+                "url": "assets/preloadResources.json"
+            }
+        }
+    ],
+    "mainResources": [
+        {
+            "name": "mainResources",
+            "data": {
+                "name": "mainResources",
+                "url": "assets/mainResources.json"
+            }
+        }
+    ]
+}

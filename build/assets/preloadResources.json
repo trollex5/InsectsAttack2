@@ -1,0 +1,92 @@
+{"frames": {
+
+"africa.jpg":
+{
+	"frame": {"x":1,"y":1,"w":960,"h":540},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":540},
+	"sourceSize": {"w":960,"h":540}
+},
+"asia.jpg":
+{
+	"frame": {"x":963,"y":1,"w":960,"h":540},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":540},
+	"sourceSize": {"w":960,"h":540}
+},
+"australia.jpg":
+{
+	"frame": {"x":1,"y":543,"w":960,"h":540},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":540},
+	"sourceSize": {"w":960,"h":540}
+},
+"background.png":
+{
+	"frame": {"x":1627,"y":543,"w":360,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":640},
+	"sourceSize": {"w":360,"h":640}
+},
+"europe.jpg":
+{
+	"frame": {"x":1,"y":1505,"w":960,"h":540},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":540},
+	"sourceSize": {"w":960,"h":540}
+},
+"lobby.jpg":
+{
+	"frame": {"x":543,"y":543,"w":960,"h":540},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":540},
+	"sourceSize": {"w":960,"h":540}
+},
+"northAmerica.jpg":
+{
+	"frame": {"x":963,"y":1505,"w":960,"h":540},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":540},
+	"sourceSize": {"w":960,"h":540}
+},
+"preloader_bar.png":
+{
+	"frame": {"x":1925,"y":1,"w":300,"h":19},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":19},
+	"sourceSize": {"w":300,"h":19}
+},
+"progress_bar.png":
+{
+	"frame": {"x":1946,"y":1,"w":294,"h":13},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":294,"h":13},
+	"sourceSize": {"w":300,"h":19}
+},
+"southAmerica.jpg":
+{
+	"frame": {"x":1085,"y":543,"w":960,"h":540},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":540},
+	"sourceSize": {"w":960,"h":540}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "preloadResources.png",
+	"format": "RGBA8888",
+	"size": {"w":1988,"h":2046},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2b581afa004dbf59eea47675e91aebb7:bbf38daf1d86ce375bbb6981039e14b5:5e007b3eab39b0fef6a5fdb656e96a61$"
+}
+}

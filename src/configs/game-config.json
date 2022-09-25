@@ -1,0 +1,21 @@
+{
+    "gameName": "Insects Attack 2",
+    "version": "2.0.0",
+    "dimentions": {
+        "width": 360,
+        "height": 520
+    },
+    "appStatesList": {
+        "zero":{
+            "allowedStates": [
+                "init"
+            ]
+        },
+        "init":{
+            "allowedStates": [
+                "loadResources"
+            ]
+        }
+    }
+    
+}
